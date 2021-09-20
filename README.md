@@ -102,7 +102,7 @@ That's All!!! Now open [localhost:3000](http://localhost:3000/) to see the app.
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
 
 # 🦄 Upcoming Features
-`TryShape` has all the potentials to grow further. Here are some of the upcoming features planned(not in any order),
+`model-repo` has all the potentials to grow further. Here are some of the upcoming features planned(not in any order),
 
 - ✔️ Feature Request 1.
 - ✔️ Feature Request 2.
