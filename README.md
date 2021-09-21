@@ -3,7 +3,7 @@
 <img src="https://res.cloudinary.com/atapas/image/upload/v1632156569/demos/GitHub-Projects_tyxnkl.png" alt="name"/>
 <p/>
 
-<h4 align="center">Best practices to gain maximum engagements, contributions, and acknowledgements(like stars)</h4>
+<h4 align="center">Best practices to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)</h4>
 
 <p align="center">
 <a href="https://github.com/atapas/model-repo/blob/master/LICENSE" target="blank">
@@ -30,7 +30,7 @@
 </p>
 
 # 👋 Introducing `Model Repo`
-`model-repo` is a public repository contains the best practices about creating and maintainining repositories to gain maximum engagements, contributions, and acknowledgements(like stars)
+`model-repo` is a public repository contains the best practices about creating and maintainining repositories to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)
 
 # 🚀 Demo
 Here is a quick demo of the app. We hope you enjoy it.
@@ -41,7 +41,7 @@ Liked it? Please give a ⭐️ to <b>Model Repo</b>.
 
 ### Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
 
-[![Stargazers repo roster for @TryShape/tryshape](https://reporoster.com/stars/atapas/model-repo)](https://github.com/atapas/model-repo/stargazers)
+[![Stargazers repo roster for @atapas/model-repo](https://reporoster.com/stars/atapas/model-repo)](https://github.com/atapas/model-repo/stargazers)
 
 # 💻 Use Model Repo
 Please access `model-repo` using the URL:
