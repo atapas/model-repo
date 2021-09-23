@@ -139,7 +139,7 @@ If you wish to contribute, you can work on any features [listed here](https://gi
 
 # 🙏 Support
 
-We all need support and motivation. `moel-repo` is not an exception. If you found the app helpful, consider supporting us with a coffee.
+We all need support and motivation. `model-repo` is not an exception. If you found the app helpful, consider supporting us with a coffee.
 
 <a href="https://www.buymeacoffee.com/greenroots">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px">
